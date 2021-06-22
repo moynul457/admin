@@ -46,7 +46,7 @@ if option == "1":
         os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
         i = i + 1
 elif option ==  "2":
-    print("comming soon")
+    os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
 else:
     print(" you option field")
 print("you are now hacked")
