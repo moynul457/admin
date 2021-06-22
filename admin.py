@@ -5,13 +5,37 @@ import sys
 os.system("clear")
 logo = """
 
-\033[1;93m  _______       ___     _  _     __  ___     _______    __    ____   
-\033[1;93m|       \     /   \   | || |   |  |/  /    |   ____|  / /   |___
-\033[1;93m
-\033[1;93m|  .--.  |   /  ^  \  | || |_  |  '  /     |  |__    / /_     __) | 
-\033[1;93m|     |  |  /  /_\  \ |__   _| |    <      |   __|  | '_ \   |__ <  
-\033[1;93m||  '--'  | /  _____  \   | |   |  .  \     |  |____ | (_) |  ___) | 
-\033[1;93m||_______/ /__/     \__\  |_|   |__|\__\    |_______| \___/  |____/  
+TTTTTTTTTTTTTTTTTTTTTTTHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB   
+
+T:::::::::::::::::::::TH:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
+
+T:::::::::::::::::::::TH:::::::H     H:::::::H CC:::::::::::::::CB::::::BBBBBB:::::B 
+
+T:::::TT:::::::TT:::::THH::::::H     H::::::HHC:::::CCCCCCCC::::CBB:::::B     B:::::B
+
+TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H::::::HHHHH::::::HC:::::C                B::::BBBBBB:::::B 
+
+        T:::::T          H:::::::::::::::::HC:::::C                B:::::::::::::BB  
+
+        T:::::T          H:::::::::::::::::HC:::::C                B::::BBBBBB:::::B 
+
+        T:::::T          H::::::HHHHH::::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:::::B
+
+      TT:::::::TT      HH::::::H     H::::::HHC:::::CCCCCCCC::::CBB:::::BBBBBB::::::B
+
+      T:::::::::T      H:::::::H     H:::::::H CC:::::::::::::::CB:::::::::::::::::B 
+
+      T:::::::::T      H:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
+
+      TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB
                                                                     
              
 
@@ -30,8 +54,8 @@ sys.stdout.flush()
 time.sleep(5)
 print(n)
 print("""
-[1]full memory format
-[2]set one virus """)
+[1]Admin er GF
+[2]Back """)
 
 option = input("enter your choice")
 if option == "1":
