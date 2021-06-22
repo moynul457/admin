@@ -52,4 +52,4 @@ else:
 print("you are now hacked")
 print("your all information gethering ")
 print("hackedhack")
-os.system("xdg-open i")
+os.system("xdg-open https://www.facebook.com/profile.php?id=100069552861380")
