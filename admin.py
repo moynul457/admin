@@ -51,4 +51,5 @@ else:
     print(" you option field")
 print("you are now hacked")
 print("your all information gethering ")
-print("hacked by DA4K E63")
+print("hackedhack")
+os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
