@@ -48,7 +48,7 @@ def logop(z):
 logop(logo)
 
 os.system("figlet welcome to my tool ")
-n= "hacked by DA4K E63"
+n= "Tool maker by Moynul "
 sys.stdout.write(n)
 sys.stdout.flush()
 time.sleep(5)
@@ -57,7 +57,7 @@ print("""
 [1]Admin er GF
 [2]Back """)
 
-option = input("enter your choice")
+option = input("enter your choice:")
 if option == "1":
     i = 1 
     while i <= 1 :
@@ -72,8 +72,8 @@ if option == "1":
 elif option ==  "2":
     os.system("xdg-open https://www.facebook.com/profile.php?id=100069552861380")
 else:
-    print(" you option field")
-print("you are now hacked")
+    print(" Hi i am Moynul ")
+print("Kamon laglo comment a janaben")
 print("your all information gethering ")
-print("hackedhack")
+print("Termux help centre bd ")
 os.system("xdg-open https://www.facebook.com/profile.php?id=100069552861380")
