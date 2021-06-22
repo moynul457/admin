@@ -54,7 +54,7 @@ sys.stdout.flush()
 time.sleep(5)
 print(n)
 print("""
-[1]Admin er GF
+[1]Admin er GF 
 [2]Back """)
 
 option = input("enter your choice:")
