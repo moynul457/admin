@@ -3,7 +3,7 @@ os.sys
 import time
 import sys
 os.system("clear")
-logo = """
+logo = """\033[94m
 
 TTTTTTTTTTTTTTTTTTTTTTTHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB   
 
